@@ -1,0 +1,2 @@
+# dailywages
+admn/dailywages
